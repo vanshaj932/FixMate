@@ -369,7 +369,7 @@ const Landing = () => {
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           <div>
             <h4 className="text-2xl font-bold mb-6 text-white">
-              <span className="text-purple-400">Fuel</span>Fix
+              <span className="text-purple-400">Fix</span>Mate
             </h4>
             <p className="mb-6 text-gray-400">
               FixMate is your emergency roadside companion. Whether your car
